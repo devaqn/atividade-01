@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Atividade_back\obj\Debug\net9.0\Atividade_back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Atividade_back\obj\Debug\net9.0\Atividade_back.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Atividade_back\obj\Debug\net9.0\Atividade_back.AssemblyInfo.cs
+C:\Users\User\Desktop\Atividade_back\obj\Debug\net9.0\Atividade_back.csproj.CoreCompileInputs.cache
